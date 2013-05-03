@@ -1,0 +1,46 @@
+((("global-linum-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("wgrep" .
+   [0 0 0 0 1])
+  ("setq" .
+   [1 0 0 2])
+  ("printf" .
+   [0 0 0 0 0 1])
+  ("when" .
+   [5 0 0 1])
+  ("require" .
+   [1 0 1 1 5 3 0])
+  ("anything" .
+   [0 0 4 9 0 0 1 0])
+  ("nil" .
+   [11 0 0])
+  ("anything-idle-delay" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("anything-input-idle-delay" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("anything-candidate-number" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("anything-candidate-number-limit" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("anything-quick-update" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("anything-enable-shortcuts" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("anything-config" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("anything-match-plugin" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("and" .
+   [1 0 0])
+  ("anything-migemo" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("anything-complete" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("anything-show-completion" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("auto-install" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("anything-auto-install" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("descbinds-anything" .
+   [0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0])))

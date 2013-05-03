@@ -1,0 +1,15 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".bit.ly"
+  [url-cookie "_bit" "5182f14d-00131-051dd-271cf10a" "Tue Oct 29 23:05:49 2013" "/" ".bit.ly" nil]
+  [url-cookie "HttpOnly" nil "Tue Oct 29 23:05:49 2013" "/" ".bit.ly" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
